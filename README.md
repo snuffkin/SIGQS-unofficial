@@ -13,6 +13,6 @@
   開催日程：2020年10月16日(金)  
   開催形式：オンライン開催  
 
-  オフィシャルページ：[https://www.ipsj.or.jp/kenkyukai/event/qs1.html](https://www.ipsj.or.jp/kenkyukai/event/qs1.html)
+  オフィシャルページ：[https://www.ipsj.or.jp/kenkyukai/event/qs1.html](https://www.ipsj.or.jp/kenkyukai/event/qs1.html)  
   当日発表資料一覧ページ：[リンク](第1回量子ソフトウェア研究発表会/README.md)
 
