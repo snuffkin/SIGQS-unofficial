@@ -5,6 +5,7 @@
 
 オフィシャルページ：[https://www.ipsj.or.jp/kenkyukai/event/qs1.html](https://www.ipsj.or.jp/kenkyukai/event/qs1.html)
 
+公開可能な資料は、タイトルの右側に「当日発表資料」というリンクをつけています。  
 
 ## セッション１
 
