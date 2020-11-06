@@ -37,7 +37,7 @@
   Satoh Ryosuke、Van Meter Rodney、Hajdusek Michal（Keio University）
 
 7. 11:30-11:50  
-  **Distributed Quantum Proofs for Replicated Data**  
+  **Distributed Quantum Proofs for Replicated Data**[（当日発表資料）](IPSJ-QS20001007_presentation.pdf)  
   Fraigniaud Pierre（CNRS/Universite de Paris）、Le Gall Francois（Nagoya University）、Nishimura Harumichi（Nagoya University）、Paz Ami（Universitat Wien）
 
 8. 11:50-12:10  
