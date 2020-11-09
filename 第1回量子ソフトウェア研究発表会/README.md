@@ -64,7 +64,7 @@
   早川 龍、森前 智行（京都大学）、玉置 卓（兵庫県立大学）
 
 13. 14:30-14:50  
-  **Quantum Pricing with a Smile: Implementation of Local Volatility Model on Quantum Computer**[（当日発表資料）](IPSJ-QS20001013_presentation.pptx)   
+  **Quantum Pricing with a Smile: Implementation of Local Volatility Model on Quantum Computer**[（当日発表資料）](IPSJ-QS20001013_presentation.pdf)   
   Kaneko Kazuya、Miyamoto Koichi、Takeda Naoyuki、Yoshino Kazuyoshi（Mizuho-DL Financial Technology Co., Ltd.）
 
 14. 14:50-15:10  
